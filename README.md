@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="https://www.linkedin.com/in/yaswanth-r-t-1239b1296/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
